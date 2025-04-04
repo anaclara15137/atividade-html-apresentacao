@@ -7,14 +7,14 @@
 Você deverá criar um arquivo HTML chamado **index.html** com o seguinte conteúdo:
 
 1. **Título da Página**: Adicione um título na aba do navegador.
-   - [ ] Título da página com o nome "Minha Página Pessoal" ou similar.
+   - [x] Título da página com o nome "Minha Página Pessoal" ou similar.
 
 2. **Título Principal**: Use a tag `<h1>` para criar um título grande no topo da página.
-   - [ ] Título principal com uma saudação, como "Olá, eu sou [seu nome]".
+   - [x] Título principal com uma saudação, como "Olá, eu sou [seu nome]".
 
 3. **Parágrafos**: Crie ao menos dois parágrafos utilizando a tag `<p>`.
-   - [ ] Primeiro parágrafo falando sobre quem você é.
-   - [ ] Segundo parágrafo com informações sobre seus interesses ou hobbies.
+   - [x] Primeiro parágrafo falando sobre quem você é.
+   -  [x] Segundo parágrafo com informações sobre seus interesses ou hobbies.
 
 4. **Imagens**: Adicione uma imagem à sua página.
    - [ ] Imagem com a tag `<img>`, você pode usar uma foto sua ou uma imagem representativa de algo que você gosta.
